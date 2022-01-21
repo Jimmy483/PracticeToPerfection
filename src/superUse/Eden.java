@@ -4,6 +4,7 @@ public class Eden {
     int age;
     String name;
 
+
     Eden(int age,String name){
         this.age=age;
         this.name=name;
